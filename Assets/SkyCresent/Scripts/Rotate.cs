@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test : MonoBehaviour
+public class Rotate : MonoBehaviour
 {
     public float speed = 3f;
     // Update is called once per frame
